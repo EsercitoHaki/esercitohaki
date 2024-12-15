@@ -57,7 +57,3 @@
     <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40" />
   </a> 
 </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=esercitohaki&show_icons=true&locale=vi&layout=compact" alt="esercitohaki" /></p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=esercitohaki&show_icons=true&locale=vi" alt="esercitohaki" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=esercitohaki&" alt="esercitohaki" /></p>
