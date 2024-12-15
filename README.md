@@ -1,17 +1,4 @@
 <h1 align="center">Xin chào 👋, tôi là Phạm Công Quân</h1>
-<h3 align="center">Một lập trình viên đầy nhiệt huyết</h3>
-<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/93/de/f6/93def6964d887005431cb95589c5ae3d.gif">
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=esercitohaki&label=Profile%20views&color=0e75b6&style=flat" alt="esercitohaki" /> </p>
-
-- 🌱 Hiện tại tôi đang học **Unity 2D**
-
-- 💬 Hỏi tôi về **Java Spring Boot, PHP**
-
-- 📫 Cách liên lạc với tôi **esercitohaki2003@gmail.com**
-
-- ⚡ Sự thật thú vị **Tôi nghĩ mình hài hước**
-
 <h3 align="left">Kết nối với tôi:</h3>
 <p align="left">
   <a href="https://instagram.com/esercitohaki" target="_blank">
